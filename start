@@ -1,1 +1,2 @@
-python3 -m ShrutiMusic
+python3 -m ShrutiMusic &
+exec python3 -m http.server ${PORT:-10000} --bind 0.0.0.0
