@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="AlphaMusic/assets/equalizer.svg" width="100%" height="500">
+  <img src="https://files.catbox.moe/g6e3cg.jpg" width="100%" height="500">
 </p>
 
 <div align="center">
